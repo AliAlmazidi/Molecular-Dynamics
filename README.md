@@ -1,2 +1,3 @@
 # Molecular-Dynamics
-Lennard-Jones potential 
+
+Final year project 
